@@ -14,6 +14,7 @@ The Pizza Order Website Project is a web application designed to allow users to 
 
 ### Home Page
 <img width="1435" alt="Screenshot 2024-09-11 at 7 17 03 PM" src="https://github.com/user-attachments/assets/ef92c46e-d954-4eb0-abcf-1157504c54af">
+
 *Purpose:* Provides the following:
 - A welcome message
 - Instructions on how to use the site
@@ -21,26 +22,32 @@ The Pizza Order Website Project is a web application designed to allow users to 
 
 ### Login Page
 <img width="1431" alt="Screenshot 2024-09-11 at 7 17 36 PM" src="https://github.com/user-attachments/assets/e587b876-dba6-4693-816f-c5aff3f75a46">
+
 *Purpose:* Allows users to log in. If the user is already registered, they can log in successfully; otherwise, they will be prompted to sign up.
 
 ### Sign Up Page
 <img width="619" alt="Screenshot 2024-09-11 at 7 18 42 PM" src="https://github.com/user-attachments/assets/99a4f9a4-3119-46d2-9cbf-76a1f02db0bd">
+
 *Purpose:* Displays a form to save user information if there is no existing user information.
 
 ### Delivery Address Page
 <img width="1432" alt="Screenshot 2024-09-11 at 7 19 05 PM" src="https://github.com/user-attachments/assets/9d6ebb8d-ff74-47a3-b72b-1ab39055a3b5">
+
 *Purpose:* Displays and allows users to update their delivery address.
 
 ### Order Page
 <img width="1138" alt="Screenshot 2024-09-11 at 7 19 36 PM" src="https://github.com/user-attachments/assets/6e1c56b4-ceeb-48ff-ab24-3bee7b261a57">
+
 *Purpose:* Allows users to choose a pizza and customize it by selecting options from a dropdown menu.
 
 ### Topping Page
 <img width="762" alt="Screenshot 2024-09-11 at 7 20 02 PM" src="https://github.com/user-attachments/assets/ca2fb12e-0a5b-4d62-a3cd-43d00b33d15e">
+
 *Purpose:* Allows users to choose as many toppings as they want for their pizza.
 
 ### Order Summary Page
 <img width="911" alt="Screenshot 2024-09-11 at 7 20 13 PM" src="https://github.com/user-attachments/assets/6a157bb4-669f-4ab6-8e29-cefec4eb10eb">
+
 *Purpose:* Displays a summary of the order with various options:
 - **Complete the order, including the current pizza and any other pizzas already added to the order**
 - **Complete the order, but do not include the current pizza**
@@ -50,10 +57,12 @@ The Pizza Order Website Project is a web application designed to allow users to 
 
 ### Order Summary Including Delivery Address Page
 <img width="1044" alt="Screenshot 2024-09-11 at 7 21 21 PM" src="https://github.com/user-attachments/assets/d8f794f0-2a01-4e55-a307-76ed43e61d60">
+
 *Purpose:* Displays a summary of the order along with the delivery address.
 
 ### Order Completed Page
 <img width="500" alt="Screenshot 2024-09-11 at 7 21 33 PM" src="https://github.com/user-attachments/assets/61c5f1a2-35bc-431f-b6ee-f08c1352e162">
+
 *Purpose:* Confirms the completion of the order and allows users to place another order by clicking a button.
 
 ### If the user is already registered, they can log in successfully
