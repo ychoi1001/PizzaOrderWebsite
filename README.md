@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Pizza Order Website Project is a web application designed to allow users to place pizza orders online. It features an intuitive interface for selecting pizza options, customizing orders, and processing payments. The project is built using PHP, HTML, CSS, and JavaScript, with a focus on creating a seamless user experience for pizza ordering.
+The Pizza Order Website Project is a web application designed to allow users to place pizza orders online. It features an intuitive interface for selecting pizza options, customizing orders, and processing payments. The project is built using PHP, HTML, CSS, AJAX, and JavaScript, with a focus on creating a seamless user experience for pizza ordering.
 
 ## Features
 
